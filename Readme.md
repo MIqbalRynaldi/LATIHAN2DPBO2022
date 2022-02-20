@@ -15,3 +15,6 @@ dan yang terakhir kelas Product menjadi child dari kelas Hardware (extends)
 Memory (Frequency, MemorySize, supportsCuda)
 	-> Hardware (brand, model)
 		-> Product (price, idProduct)
+
+# Hasil
+![Hasil](https://user-images.githubusercontent.com/99519502/154828829-e1b1d0ae-ac39-4e9c-9a98-5bb50563f730.PNG)
